@@ -14,9 +14,12 @@ exit_key = keyboard.Key.esc   # or edit keys here.
 
 try:
     delay = sys.argv[1]
-    delay = int(delay)
+    if "." in delay:
+        delay = float(delay)
+    else:
+        delay = int(delay)
 except Exception:
-    delay = delay
+    pass
 
 pause = True
 running = True
