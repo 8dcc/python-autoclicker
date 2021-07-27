@@ -3,13 +3,12 @@ Python autoclicker made by me.
 
 https://raidforums.com/User-ch0colate
 ### Installation and usage
-```git clone https://github.com/r4v10l1/autoclicker```
-
-```cd autoclicker```
-
-```pip3 install -r requirements.txt```
-
-```python3 autoclicker.py <delay>```
+```bash
+git clone https://github.com/r4v10l1/autoclicker
+cd autoclicker
+pip3 install -r requirements.txt
+python3 autoclicker.py <delay>
+```
 
 ### Keys
 
