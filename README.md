@@ -1,7 +1,6 @@
 ## Python autoclicker
 Python autoclicker made by me.
 
-https://raidforums.com/User-ch0colate
 ### Installation and usage
 ```bash
 git clone https://github.com/r4v10l1/python-autoclicker
