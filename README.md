@@ -18,7 +18,3 @@ F10 | Pauses the program
 ESC | Exits the program
 
 All the keys (and the default delay) can be edited on the source code easily.
-
-### Screenshot
-
-![Image](https://i.imgur.com/SSuQLZR.png)
